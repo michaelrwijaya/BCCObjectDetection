@@ -1,2 +1,2 @@
 # BCCObjectDetection
-Files That Are More Than 25 MB Are Stored In The Release 
+Files That Are More Than 25 MB Are Stored In The Releases
